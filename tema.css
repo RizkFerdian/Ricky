@@ -1,0 +1,74 @@
+p {
+    text-align: center;
+    color: rgb(241, 143, 15);
+}
+#para1 {
+    text-align: center;
+    color:maroon;
+}
+.para2 {
+    text-align: center;
+    color: crimson;
+}
+
+h1, h2, h3, h4{
+    text-aligin: center;
+    color: black;
+}
+
+a {
+    color:silver; 
+    text-decoration: none;
+}
+a:visited{
+    color:yellow;
+}
+a:hover{
+    color:brown;
+    text-decoration: none;
+}
+a:active{
+    color:crimson;
+}
+
+body {
+    font-family: arial, sans-serif;
+    background-color:silver;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:turquoise;
+    color: aquamarine;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: blueviolet;
+    color: blue;
+    text-align: center;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: crimson;
+    color: silver;
+    text-align: center;
+    padding: 5px;
+}
